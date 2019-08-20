@@ -1,0 +1,30 @@
+create reactJS:
+yarn create-react-app my-app
+
+yarn add react-router-dom
+
+yarn add axios
+
+yarn start
+
+Create react-native:
+npx react-native init tindev
+
+yarn react-native run-android
+
+yarn add react-navigation 
+yarn add react-native-gesture-handler 
+
+adicionar no mainactivity.
+
+yarn add react-native-reanimated
+
+se estiver no ios:
+acessar pasta ios e rodar pod install
+
+yarn add axios
+
+para usar local host:
+adb reverse tcp:3333 tcp:3333
+
+yarn add @react-native-community/async-storage
